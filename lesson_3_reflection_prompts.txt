@@ -5,3 +5,8 @@ Probably, this would be useful when multiple users are working simultaneously or
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 If git would stay automatically up-to-date with remote repository, the user couldn't decide when to make a part of the work public.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+We use fork to get a copy of an existing repository on github to be able to use it's contents. By cloning we copy a repository on our local machine and then can modify it. When creating a branch we can make modifications without affecting the main (working) version.
+
